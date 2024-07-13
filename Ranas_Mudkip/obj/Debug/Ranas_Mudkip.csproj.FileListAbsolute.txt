@@ -1,0 +1,12 @@
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\bin\Debug\Ranas_Mudkip.exe.config
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\bin\Debug\Ranas_Mudkip.exe
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\bin\Debug\Ranas_Mudkip.pdb
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.Form1.resources
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.Properties.Resources.resources
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.csproj.GenerateResource.Cache
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.exe
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.pdb
+c:\users\gerardo\documents\visual studio 2013\Projects\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.csprojResolveAssemblyReference.cache
+C:\Users\( - ) RED ( - )\Documents\Ranas_Mudkip\Ranas_Mudkip\bin\Debug\Ranas_Mudkip.exe.config
+C:\Users\( - ) RED ( - )\Documents\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.exe
+C:\Users\( - ) RED ( - )\Documents\Ranas_Mudkip\Ranas_Mudkip\obj\Debug\Ranas_Mudkip.pdb
